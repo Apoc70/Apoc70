@@ -1,5 +1,6 @@
 - 🤓 I'm Thomas Stensitzki
+- 😄 Pronouns: he/him
 - 🔭 I've been working with Microsoft Technologies for more than 25 years
 - 🌱 I've been awared as an MVP for Microsoft 365 | Exchange
-- 😄 Pronouns: he/him
+- 📧 My current project [https://ExchangeForITPros.blog](https://ExchangeForITPros.blog)
 - 👾 I'm on Bluesky [https://bsky.app/profile/stensitzki.eu](https://bsky.app/profile/stensitzki.eu)
