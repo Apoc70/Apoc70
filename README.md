@@ -2,4 +2,4 @@
 - 🔭 I've been working with Microsoft Technologies for more than 25 years
 - 🌱 I've been awared as an MVP for Microsoft 365 | Exchange
 - 😄 Pronouns: he/him
-- 👾 I'm on Bluesky (https://bsky.app/profile/stensitzki.eu)[https://bsky.app/profile/stensitzki.eu]
+- 👾 I'm on Bluesky [https://bsky.app/profile/stensitzki.eu](https://bsky.app/profile/stensitzki.eu)
